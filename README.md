@@ -65,9 +65,9 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 
 Primeira visita:
 
-Ligue e desligue o primeiro interruptor brevemente.
-Deixe o segundo interruptor ligado.
-Deixe o terceiro interruptor desligado.
+- Ligue e desligue o primeiro interruptor brevemente.
+- Deixe o segundo interruptor ligado.
+- Deixe o terceiro interruptor desligado.
 
 Segunda visita:
 
