@@ -75,3 +75,20 @@ Segunda visita:
 - Se uma lâmpada estiver acesa, é controlada pelo segundo interruptor.
 - Se uma lâmpada estiver apagada e quente, é controlada pelo primeiro interruptor.
 
+## Questão 5 - Invertendo uma String
+
+Escreva um programa que inverta os caracteres de uma string.
+
+**Resposta Questão 5:**
+
+Você pode usar um loop para percorrer a string de trás para frente e construir uma nova string invertida. Aqui está um exemplo em JavaScript:
+
+```javascript
+let string = "tiago";
+let novaString = "";
+
+for (let i = string.length - 1; i >= 0; i--) {
+  novaString += string[i];
+}
+
+console.log(novaString); // Saída: "ogait"
