@@ -18,3 +18,4 @@ while (k < indice) {
 
 // Ao final do processamento, qual será o valor da variável SOMA?
 console.log(soma);
+soma = 91;
