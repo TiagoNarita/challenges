@@ -6,12 +6,15 @@ Neste desafio, você encontrará uma série de questões e problemas para resolv
 
 Dado o trecho de código fornecido:
 
-```java
-int INDICE = 13, SOMA = 0, K = 0;
+```javascript
+let indice = 13;
+let soma = 0;
+let k = 0;
 
-while (K < INDICE) {
-    K = K + 1;
-    SOMA = SOMA + K;
+while (k < indice) {
+  k++;
+  soma += k;
 }
 
-System.out.println(SOMA);
+// Ao final do processamento, qual será o valor da variável SOMA?
+console.log(soma);
