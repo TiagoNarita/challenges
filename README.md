@@ -71,7 +71,7 @@ Primeira visita:
 
 Segunda visita:
 
-Se uma lâmpada estiver apagada e fria, é controlada pelo terceiro interruptor.
-Se uma lâmpada estiver acesa, é controlada pelo segundo interruptor.
-Se uma lâmpada estiver apagada e quente, é controlada pelo primeiro interruptor.
+- Se uma lâmpada estiver apagada e fria, é controlada pelo terceiro interruptor.
+- Se uma lâmpada estiver acesa, é controlada pelo segundo interruptor.
+- Se uma lâmpada estiver apagada e quente, é controlada pelo primeiro interruptor.
 
